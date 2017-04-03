@@ -1,0 +1,13 @@
+[user]
+	email = shrey_s@hcl.com
+	name = shreys-s
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
+	branch = auto
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
